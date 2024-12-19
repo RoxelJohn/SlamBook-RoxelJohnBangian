@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomSearchViewStyle">
+        <!-- Set text color for the query -->
+        <item name="android:textColor">#000000</item> <!-- Black text color -->
+        <item name="android:textColorHint">#000000</item> <!-- Gray hint color -->
+    </style>
+</resources>
